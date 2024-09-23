@@ -14,6 +14,7 @@ public class initializingArray {
             System.out.println(x);
         }
         Arrays.sort(ar);
-        System.out.println("sorted arrays are "+ar);
+        System.out.println(Arrays.toString(ar));
+
     }
 }
